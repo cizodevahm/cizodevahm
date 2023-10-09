@@ -1,10 +1,24 @@
-Hi 👋 My name is Cizo
+Hi 👋 
 =====================
 
 Expert Mobile app developers
 ----------------------------
 
-🚀 Welcome to CIZO - Your Premier Mobile App Development Partner for IoT and Automation Solutions! 🚀 At CIZO, we blend innovation and expertise to craft seamless mobile experiences tailored for the future. As industry leaders in IoT (Internet of Things) and Automation technologies, we transform ideas into intuitive, smart, and scalable mobile applications that redefine user engagement. 🔧 Our Expertise: 📱 Mobile App Development: We specialize in creating cutting-edge mobile applications for various platforms, ensuring a smooth and responsive user experience. 🌐 IoT Solutions: Explore the limitless possibilities of IoT with our tailored solutions, connecting devices and enhancing real-time data analysis for informed decision-making. ⚙️ Automation: Streamline your operations with our automation expertise, optimizing processes and increasing efficiency across your business. 🔗 Connect with Us: Ready to revolutionize your business? Collaborate with CIZO for unparalleled mobile app development, IoT, and Automation services. Let's embark on a journey to transform your ideas into a digital reality. 📧 Email: hello@cizotech.com 🌐 Website: www.cizotech.com 📱 GitHub: github.com/cizodevahm
+🚀 Welcome to CIZO - Your Premier Mobile App Development Partner for IoT and Automation Solutions! 
+🚀 At CIZO, we blend innovation and expertise to craft seamless mobile experiences tailored for the future. As industry leaders in IoT (Internet of Things) and Automation technologies, we transform ideas into intuitive, smart, and scalable mobile applications that redefine user engagement. 
+<br>
+<br>
+🔧 Our Expertise: 
+📱 Mobile App Development: We specialize in creating cutting-edge mobile applications for various platforms, ensuring a smooth and responsive user experience. 
+🌐 IoT Solutions: Explore the limitless possibilities of IoT with our tailored solutions, connecting devices and enhancing real-time data analysis for informed decision-making. 
+⚙️ Automation: Streamline your operations with our automation expertise, optimizing processes and increasing efficiency across your business. 
+🔗 Connect with Us: Ready to revolutionize your business? Collaborate with CIZO for unparalleled mobile app development, IoT, and Automation services. Let's embark on a journey to transform your ideas into a digital reality. 
+<br>
+<br>
+📧 Email: hello@cizotech.com 
+🌐 Website: www.cizotech.com 
+📱 GitHub: github.com/cizodevahm
+
 <br>
 <br>
 * 🌍  We are  based in Ahmedabad, India
