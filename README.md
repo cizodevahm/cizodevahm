@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 🔭 We are currently working on: Exciting mobile app projects that push the boundaries of innovation and user experience.<br><br>👯 We are looking to collaborate on: Cutting-edge IoT (Internet of Things) projects where mobile apps meet smart devices, creating seamless and intelligent user interactions.<br><br>🤝 We are looking for help with: Exploring the depths of TensorFlow in SwiftUI, seeking guidance and knowledge from the community to master this powerful technology.<br><br>🌱 We are currently learning: TensorFlow in SwiftUI, diving deep into the world of machine learning and artificial intelligence to enhance my app development skills.<br><br>💬 Ask us about: Mobile app development, iOS and Android platforms, SwiftUI, user interface design, and our journey in integrating IoT technology with mobile applications.<br><br>⚡ Fun fact: We love experimenting with new recipes in my spare time, just like We experiment with code to create unique and delightful mobile app experiences!
 
 
