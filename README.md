@@ -1,7 +1,7 @@
 Hi 👋 
 =====================
 
-Expert Mobile app developers
+We'r expert Mobile app developers
 ----------------------------
 
 🚀 Welcome to CIZO - Your Premier Mobile App Development Partner for IoT and Automation Solutions! 
