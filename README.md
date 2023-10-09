@@ -8,16 +8,16 @@ Expert Mobile app developers
 🚀 At CIZO, we blend innovation and expertise to craft seamless mobile experiences tailored for the future. As industry leaders in IoT (Internet of Things) and Automation technologies, we transform ideas into intuitive, smart, and scalable mobile applications that redefine user engagement. 
 <br>
 <br>
-🔧 Our Expertise: 
-📱 Mobile App Development: We specialize in creating cutting-edge mobile applications for various platforms, ensuring a smooth and responsive user experience. 
-🌐 IoT Solutions: Explore the limitless possibilities of IoT with our tailored solutions, connecting devices and enhancing real-time data analysis for informed decision-making. 
-⚙️ Automation: Streamline your operations with our automation expertise, optimizing processes and increasing efficiency across your business. 
-🔗 Connect with Us: Ready to revolutionize your business? Collaborate with CIZO for unparalleled mobile app development, IoT, and Automation services. Let's embark on a journey to transform your ideas into a digital reality. 
+🔧 Our Expertise: <br>
+📱 Mobile App Development: We specialize in creating cutting-edge mobile applications for various platforms, ensuring a smooth and responsive user experience. <br>
+🌐 IoT Solutions: Explore the limitless possibilities of IoT with our tailored solutions, connecting devices and enhancing real-time data analysis for informed decision-making. <br>
+⚙️ Automation: Streamline your operations with our automation expertise, optimizing processes and increasing efficiency across your business. <br>
+🔗 Connect with Us: Ready to revolutionize your business? Collaborate with CIZO for unparalleled mobile app development, IoT, and Automation services. Let's embark on a journey to transform your ideas into a digital reality. <br>
 <br>
 <br>
-📧 Email: hello@cizotech.com 
-🌐 Website: www.cizotech.com 
-📱 GitHub: github.com/cizodevahm
+📧 Email: hello@cizotech.com <br>
+🌐 Website: www.cizotech.com <br>
+📱 GitHub: github.com/cizodevahm <br>
 
 <br>
 <br>
