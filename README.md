@@ -21,10 +21,10 @@ Expert Mobile app developers
 
 <br>
 <br>
-* 🌍  We are  based in Ahmedabad, India
-* ✉️  You can contact us at [hello@cizotech.com](mailto:hello@cizotech.com)
-* 🧠  We are learning Swift TensorFlow
-* 🤝  We are open to collaborating on iOT learning, BLE connection, or any agricultural projects.
+* 🌍  We are  based in Ahmedabad, India<br>
+* ✉️  You can contact us at [hello@cizotech.com](mailto:hello@cizotech.com)<br>
+* 🧠  We are learning Swift TensorFlow<br>
+* 🤝  We are open to collaborating on iOT learning, BLE connection, or any agricultural projects.<br>
 
 
 # 💻 Tech Stack:
