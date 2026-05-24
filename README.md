@@ -1,6 +1,6 @@
 <div align="center">
 
-# CIZO
+# CIZO | AI Product Engineering | Automation | Cybersecurity
 
 ### We make AI work for your business.
 **Smarter automation. Faster workflows. New capabilities you didn't think were possible yet.**
