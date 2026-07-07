@@ -5,8 +5,8 @@
 ### We make AI work for your business.
 **Smarter automation. Faster workflows. New capabilities you didn't think were possible yet.**
 
-[![Website](https://img.shields.io/badge/🌐_Website-cizotech.com-blue?style=for-the-badge)](https://www.cizotech.com)
-[![Email](https://img.shields.io/badge/📧_Email-hello@cizotech.com-red?style=for-the-badge)](mailto:hello@cizotech.com)
+[![Website](https://img.shields.io/badge/🌐_Website-thecizo.ai-blue?style=for-the-badge)](https://www.thecizo.ai)
+[![Email](https://img.shields.io/badge/📧_Email-partner@cizotech.com-red?style=for-the-badge)](mailto:partner@cizotech.com)
 
 ---
 
